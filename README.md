@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador italo">
 
 <p align="left">
-  Olá meu nome é <strong>Italo</strong> tenho 18 anos e atualmente sou estudante de computação, curso <strong>Analise e Desenvolvimento de Sistemas na Instituição PUC-GO.</strong>
+     Olá meu nome é <strong>Italo</strong> tenho 18 anos e atualmente sou estudante de computação, curso <strong>Analise e Desenvolvimento de Sistemas na Instituição PUC-GO.</strong>
 totalmente a disposição a aprender novas tecnologias
-  Sou <strong>apaixonado por tecnologia</strong> , atualmente estudo Banco de Dados[SQL], Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
+  Sou <strong>apaixonado por tecnologia</strong> , atualmente estudo Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
 </p>
 
 <p align="left">
