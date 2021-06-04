@@ -2,7 +2,9 @@
 
 <p align="left">
      Olá meu nome é <strong>Italo</strong> tenho 18 anos e atualmente sou estudante de computação, curso <strong>Analise e Desenvolvimento de Sistemas na Instituição PUC-GO.</strong>
+     
 totalmente a disposição a aprender novas tecnologias
+     
   Sou <strong>apaixonado por tecnologia</strong> , atualmente estudo Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
 </p>
 
