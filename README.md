@@ -9,7 +9,7 @@ totalmente a disposição a aprender novas tecnologias
 </p>
 
 <p align="left">
-  📖 Estudando atualmente: <strong>Java e desenvolvimento <strong>Android utlizando a <strong>IDE <strong>Android <strong>Studio e a linguagem <strong>Kotlin .
+  📖 Estudando atualmente: Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
 </p>
 
 <p align="left">
