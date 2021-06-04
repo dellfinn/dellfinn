@@ -13,7 +13,7 @@ totalmente a disposição a aprender novas tecnologias
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode,InteliJ, GitHub e workbench .</strong>
+  💼 Ferramentas: <strong>VSCode, InteliJ, Android Studio, Eclipse e  GitHub  .</strong>
 </p>
 <p align="left">
   🐧 Sistema Operacional: <strong>Linux Mint.</strong>
