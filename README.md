@@ -5,11 +5,11 @@
      
 totalmente a disposição a aprender novas tecnologias
      
-  Sou <strong>apaixonado por tecnologia</strong> , atualmente estudo Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
+  Sou <strong>apaixonado por tecnologia</strong> Java e desenvolvimento Android utlizando a IDE Android Studio e a linguagem Kotlin .
 </p>
 
 <p align="left">
-  📖 Estudando atualmente: <strong>Banco de Dados SQL e Java.</strong>
+  📖 Estudando atualmente: <strong>Java e desenvolvimento <strong>Android utlizando a <strong>IDE <strong>Android <strong>Studio e a linguagem <strong>Kotlin .
 </p>
 
 <p align="left">
