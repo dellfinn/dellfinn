@@ -14,7 +14,7 @@ totalmente a disposição a aprender novas tecnologias
   💼 Ferramentas: <strong>VSCode, InteliJ, Android Studio, Eclipse e  GitHub  .</strong>
 </p>
 <p align="left">
-  🎯  Projetos Pessoais concluidos : <strong>[Mobile App: Caculadora], [Mobile App: Interface Hub Santander Bank] .</strong>
+  🎯  Projetos Pessoais concluidos : <strong>[Mobile App: Caculadora], [Mobile App: Interface Hub Santander Bank], [Mobile App: Game de Dados ] .</strong>
 </p>
 <p align="left">
   🐧 Sistema Operacional: <strong>Linux Mint.</strong>
