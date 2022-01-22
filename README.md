@@ -12,9 +12,6 @@ Analise e Desenvolvimento de Sistemas na Instituição PUC-GO.</strong>
 <p align="left">
   🐧 Sistema Operacional: <strong>Linux Mint.</strong>
 </p>
-<p align="left">
-  Meu objetivo: <strong>Atuar na área de Desenvolvimento de software</strong>
-</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/italo-ruan-santos-de-brito-7a8868207/" alt="Linkedin">
