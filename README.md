@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://github.com/dellfinn" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dellfinn&show_icons=true&theme=react" alt="dellfinn Github Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellfinnz&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellfinn&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
@@ -44,7 +44,7 @@
   </a>
 </h2>
 
-<p align="start">
+<p align="center">
   <br>
   <a href="https://www.linkedin.com/in/italoruan/" target="_blank">
     <code><img width="51" src="https://github.com/dellfinn/dellfinn/blob/main/assets/linkedIn.png"/></code>
