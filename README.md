@@ -44,7 +44,7 @@
   </a>
 </h2>
 
-<p align="center">
+<p align="start">
   <br>
   <a href="https://www.linkedin.com/in/italoruan/" target="_blank">
     <code><img width="51" src="https://github.com/dellfinn/dellfinn/blob/main/assets/linkedIn.png"/></code>
@@ -56,7 +56,7 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/dellfinn/dellfinn/blob/output/github-contribution-grid-snake.svg)
+ 
 
 #
 
