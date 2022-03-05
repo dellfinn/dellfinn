@@ -11,7 +11,7 @@
 <code><img width="33" src="https://github.com/dellfinn/dellfinn/blob/main/assets/flutter.svg"></code>
 <code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/intellij.svg"></code>
 <code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/dart.svg"></code>
-<code><img width="55" src="https://github.com/dellfinn/dellfinn/blob/main/assets/java.svg"></code>
+<code><img width="45" src="https://github.com/dellfinn/dellfinn/blob/main/assets/java.svg"></code>
 <code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/Figma.png"></code>
 <code><img width="37" src="https://github.com/dellfinn/dellfinn/blob/main/assets/vsCode.svg"></code>
