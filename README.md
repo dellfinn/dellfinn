@@ -7,8 +7,6 @@ Analise e Desenvolvimento de Sistemas na Instituição PUC-GO.</strong>
   💼 Ferramentas: <strong>VSCode, InteliJ, Android Studio, Eclipse e  GitHub  .</strong>
 </p>
 <p align="left">
-  🎯  Projetos Pessoais concluidos : <strong>[Mobile App: Caculadora], [Mobile App: Interface Hub Santander Bank], [Mobile App: Game de Dados ], [Mobile App Conversor Dólar para Real] .</strong>
-</p>
 <p align="left">
   🐧 Sistema Operacional: <strong>Linux Mint.</strong>
 </p>
