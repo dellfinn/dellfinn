@@ -8,13 +8,13 @@
 
 <br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><img width="43" src="https://github.com/dellfinn/blob/main/assets/flutter.svg"></code>
-<code><img width="40" src="https://github.com/dellfinn/blob/main/assets/intellij.svg"></code>
-<code><img width="40" src="https://github.com/dellfinn/blob/main/assets/dart.svg"></code>
-<code><img width="55" src="https://github.com/dellfinn/blob/main/assets/java.svg"></code>
-<code><img width="40" src="https://github.com/dellfinn/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/dellfinn/blob/main/assets/Figma.png"></code>
-<code><img width="37" src="https://github.com/dellfinn/blob/main/assets/vsCode.svg"></code>
+<code><img width="43" src="https://github.com/dellfinn/dellfinn/blob/main/assets/flutter.svg"></code>
+<code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/intellij.svg"></code>
+<code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/dart.svg"></code>
+<code><img width="55" src="https://github.com/dellfinn/dellfinn/blob/main/assets/java.svg"></code>
+<code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/git.svg"></code>
+<code><img width="40" src="https://github.com/dellfinn/dellfinn/blob/main/assets/Figma.png"></code>
+<code><img width="37" src="https://github.com/dellfinn/dellfinn/blob/main/assets/vsCode.svg"></code>
 
 <br/>
 <br/>
