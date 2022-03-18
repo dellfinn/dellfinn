@@ -47,10 +47,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/italoruan/" target="_blank">
-    <code><img width="51" src="https://github.com/dellfinn/dellfinn/blob/main/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/Desenho-Email-PNG.png"/></code>
   </a>
   <a href="mailto: italodev@prontonmail.com" target="_blank">
-    <code><img width="52" src="https://pngimg.com/uploads/email/email_PNG100751.png"/></code>
+    <code><img width="52" src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/Desenho-Email-PNG.png"/></code>
   </a>
 </p>
 <br/>
